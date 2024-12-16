@@ -85,7 +85,7 @@ This phase implements a parser for COOL programs using **Bison**. The parser val
    cd cool-compiler
     ```
 
-Compile the code:
+2. Compile the code:
 For the stack machine interpreter:
 ```bash
 coolc stack.cl atoi.cl
