@@ -1,6 +1,4 @@
-# COOL-Language-Compiler
-
-**# COOL Compiler Project
+# COOL Compiler Project
 
 This project implements various stages of a compiler for the COOL programming language, as part of a course assignment. The project is divided into multiple phases, each focusing on a specific aspect of the compiler development process.
 
